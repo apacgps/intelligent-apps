@@ -20,7 +20,7 @@ At the end of the workshop, you will be better able to build intelligent applica
 ### Hands-on lab
 In this hands-on lab, you will deploy Contoso Chatbot, a pre-configured Blazor application with Azure OpenAI service. You will also deploy Contoso Chatbot Management,  a SaaS subscription management portal, to manage your customers purchases and integrate it to the Marketplace APIs. 
 
-The step by step guide and instructions for this Hands-on lab is in the [docs folder](https://github.com/apacgps/intelligent-apps/tree/main/Hands-On%20Lab/docs).
+The step-by-step guide and instructions for this Hands-on lab is in the [docs folder](https://github.com/apacgps/intelligent-apps/tree/main/Hands-On%20Lab/docs).
 
 ### Azure services and related products
 Azure App Service \
